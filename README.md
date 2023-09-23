@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marc</h1>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 <h3 align="center">SENECA | Computer Programming & Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomspood&label=Profile%20views&color=0e75b6&style=flat" alt="venomspood" /> </p>
