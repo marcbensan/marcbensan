@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif`)]
+[![MasterHead](https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif)]
 <h3 align="center">SENECA | Computer Programming & Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomspood&label=Profile%20views&color=0e75b6&style=flat" alt="venomspood" /> </p>
