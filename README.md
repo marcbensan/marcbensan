@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif)
+![MasterHead](https://i.pinimg.com/originals/59/d5/56/59d5563ad8c8858930a35f3adcdfc91e.jpg)
 
 <h1 align="center">Marc</h1>
 <h3 align="center">SENECA | Computer Programming & Analysis</h3>
