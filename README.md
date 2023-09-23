@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif)
+![MasterHead](https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif)
 
 <h1 align="center">Marc Bensan</h1>
 <h3 align="center">SENECA | Computer Programming & Analysis</h3>
