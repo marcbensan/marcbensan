@@ -18,26 +18,13 @@ Feel free to check out my work!
     <h3 align="left">My Stats:</h3>
 </div>
 <hr>
-<style>
-    .centered-content {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: -2hv;
-    }
-</style>
 
-<div class="centered-content">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venomspood&show_icons=true&locale=en" alt="venomspood" /></p>
-</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=venomspood&show_icons=true&locale=en" alt="venomspood" /></p>
 
-<div class="centered-content">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venomspood&" alt="venomspood" /></p>
-</div>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomspood&" alt="venomspood" /></p>
 
-<div class="centered-content">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=venomspood&show_icons=true&locale=en&layout=compact" alt="venomspood" /></p>
-    </div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venomspood&show_icons=true&locale=en&layout=compact" alt="venomspood" /></p>
+
 <hr>
 
 <h3 align="center">Connect with me:</h3>
