@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomspood&label=Profile%20views&color=0e75b6&style=flat" alt="venomspood" /> </p>
 
-Hey! I am an aspiring Software Developer. Currently studying CPA @ Seneca, I build mobile apps on my spare time (when I get them).
+Hey! I am currently studying CPA @ Seneca, I build mobile apps on my spare time (when I get them).
 Feel free to check out my work!
 
 <h3 align="left">Languages Stack:</h3>
