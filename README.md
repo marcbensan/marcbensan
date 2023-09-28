@@ -11,7 +11,12 @@ Feel free to check out my work!
 <h3 align="left">Languages Stack:</h3>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,c,cpp,linux,react,babel,bash,css,discord,git,github,html,linkedin,mysql,nodejs,regex,replit,stackoverflow,tailwind,instagram,twitter,visualstudio,vscode,&perline=5)](https://skillicons.dev)
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,py,c,cpp,linux,react,babel,bash,flutter,css,discord,git,github,html,linkedin,mysql,nodejs,regex,replit,stackoverflow,tailwind,instagram,twitter,visualstudio,vscode,&perline=5" />
+    </a>
+</p>
+
 
 <div>
     <h3 align="left">My Stats:</h3>
