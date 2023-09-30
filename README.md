@@ -23,7 +23,7 @@ Feel free to check out my work!
 </div>
 <hr>
 
-<p align="center"> ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized)></p>
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized"></p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomspood&" alt="venomspood" /></p>
 
