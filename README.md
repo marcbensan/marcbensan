@@ -26,9 +26,10 @@ Feel free to check out my work!
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomspood&theme=solarized"></p>
 
 <p align="center"> 
-    <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venomspood&theme=solarized" />
+    <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venomspood&theme=solarized"></a>
 
-    <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomspood&theme=solarized"></p>
+    <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomspood&theme=solarized"></a>
+    </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomspood&" alt="venomspood" /></p>
 
