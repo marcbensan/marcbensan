@@ -24,12 +24,12 @@ Feel free to check out my work!
 <hr>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomspood&theme=solarized">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomspood&theme=darcula">
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venomspood&theme=solarized">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomspood&theme=solarized">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venomspood&theme=darcula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomspood&theme=darcula">
 </p>
 
 <p align="center">
