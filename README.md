@@ -23,11 +23,14 @@ Feel free to check out my work!
 </div>
 <hr>
 
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized"></p>
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomspood&theme=solarized"></p>
+
+<p align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venomspood&theme=solarized" /></p>
+
+<p align="right"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomspood&theme=solarized"></p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomspood&" alt="venomspood" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venomspood&show_icons=true&locale=en&layout=compact" alt="venomspood" /></p>
 
 <hr>
 
