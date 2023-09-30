@@ -33,7 +33,7 @@ Feel free to check out my work!
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomspood" alt="venomspood">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomspood&theme=dark" alt="venomspood">
 </p>
 
 
