@@ -28,7 +28,7 @@ Feel free to check out my work!
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venomspood&theme=darcula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venomspood&theme=darcula">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomspood&theme=darcula">
 </p>
 
