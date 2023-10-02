@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomspood&label=Profile%20views&color=0e75b6&style=flat" alt="venomspood" /> </p>
 
-Hey! I am currently studying CPA @ Seneca, I build mobile apps on my spare time (when I get them).
-Feel free to check out my work!
+Hey! I am a CPA student @Seneca College. I create mobile applications during my spare time, prioritizing continuous learning and innovation. I adore the idea that the apps I create greatly impact people's lives and the world as a whole. I appreciate you checking my work!
 
 <h3 align="left">Languages Stack:</h3>
 <hr>
