@@ -12,7 +12,7 @@ Hey! I am a CPA student @Seneca College. I create mobile applications during my 
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,py,c,cpp,linux,react,babel,bash,flutter,css,discord,git,github,html,linkedin,mysql,nodejs,regex,replit,stackoverflow,tailwind,instagram,twitter,visualstudio,vscode,&perline=5" />
+      <img src="https://skillicons.dev/icons?i=js,py,cpp,c,linux,react,babel,bash,flutter,css,discord,git,github,html,linkedin,mysql,nodejs,regex,replit,stackoverflow,tailwind,instagram,twitter,visualstudio,vscode,&perline=5" />
     </a>
 </p>
 
@@ -41,6 +41,6 @@ Hey! I am a CPA student @Seneca College. I create mobile applications during my 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/marc bensan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc bensan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marc-bensan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc bensan" height="30" width="40" /></a>
 <a href="https://instagram.com/marcbensan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcbensan" height="30" width="40" /></a>
 </p>
