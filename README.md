@@ -7,7 +7,7 @@
 
 Hey! I am a CPA student @Seneca College. I create mobile applications during my spare time, prioritizing learning and innovation. I adore the idea that the apps I create greatly impact people's lives and the world as a whole. I appreciate you checking my work!
 
-<h3 align="left">Language Stack:</h3>
+<h3 align="left">Language Stack</h3>
 <hr>
 
 <p align="center">
@@ -18,7 +18,7 @@ Hey! I am a CPA student @Seneca College. I create mobile applications during my 
 
 
 <div>
-    <h3 align="left">My Stats:</h3>
+    <h3 align="left">Stats</h3>
 </div>
 <hr>
 
