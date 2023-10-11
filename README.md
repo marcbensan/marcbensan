@@ -23,16 +23,16 @@ Hey! I am a Computer Programming & Analysis (CPA) student @ Seneca College. Crea
 <hr>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomspood&theme=darcula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcbensan&theme=darcula">
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venomspood&theme=darcula">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomspood&theme=darcula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcbensan&theme=darcula">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcbensan&theme=darcula">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venomspood&theme=dark" alt="venomspood">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcbensan&theme=dark" alt="marcbensan">
 </p>
 
 
