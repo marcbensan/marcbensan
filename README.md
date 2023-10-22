@@ -32,7 +32,7 @@ Hey! I am a Computer Programming & Analysis (CPA) student @ Seneca College. Crea
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcbensan&theme=darcula&utcOffset=8)" alt="marcbensan">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcbensan&theme=darcula&utcOffset=8">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcbensan&theme=darcula">
 </p>
 
