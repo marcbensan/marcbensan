@@ -12,7 +12,7 @@ Hey! I am a Computer Programming & Analysis (CPA) student @ Seneca College. Crea
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,py,cpp,c,linux,react,babel,bash,flutter,css,discord,git,github,html,linkedin,mysql,nodejs,regex,replit,stackoverflow,tailwind,instagram,twitter,visualstudio,vscode,&perline=5" />
+      <img src="https://skillicons.dev/icons?i=js,py,mysql,cpp,c,linux,react,babel,bash,flutter,css,discord,git,github,html,linkedin,nodejs,regex,replit,stackoverflow,tailwind,instagram,twitter,visualstudio,vscode,&perline=5" />
     </a>
 </p>
 
