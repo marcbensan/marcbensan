@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomspood&label=Profile%20views&color=0e75b6&style=flat" alt="venomspood" /> </p>
 
-Hey! I am a Computer Programming & Analysis (CPA) student @ Seneca Polytechnic. Creating softwares in my spare time, prioritizing learning and innovation.
+Hello, I'm Marc and I am a Software Developer who specializes in backend development. I am currently a Computer Programming and Analysis (CPA) student @ Seneca Polytechnic. I constantly experiment with different frameworks to broaden my skills and can be flexible depending on the scenario. If I am not spending most of my day programming, I am most likely playing video games, watching anime, or rocking it out on my bass guitar.​​​​​​​
 
 <h3 align="left">Language Stack</h3>
 <hr>
