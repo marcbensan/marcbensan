@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif)
 
 <h1 align="center">Marc Bensan</h1>
-<h3 align="center">SENECA | Computer Programming & Analysis</h3>
+<h3 align="center">Computer Programming & Analysis | Systems Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venomspood&label=Profile%20views&color=0e75b6&style=flat" alt="venomspood" /> </p>
 
