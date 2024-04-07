@@ -7,7 +7,7 @@
 
 Hello, I'm Marc and I am a Software Developer who specializes in backend development. I am currently a Computer Programming and Analysis (CPA) student @ Seneca Polytechnic. I constantly experiment with different frameworks to broaden my skills and can be flexible depending on the scenario. If I am not spending most of my day programming, I am most likely playing video games, watching anime, or rocking it out on my bass guitar.​​​​​​​
 
-<h3 align="left">Language Stack</h3>
+<h3 align="left">Tech Stack</h3>
 <hr>
 
 <p align="center">
