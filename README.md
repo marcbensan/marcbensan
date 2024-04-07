@@ -12,7 +12,7 @@ Hello, I'm Marc and I am a Software Developer who specializes in backend develop
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,py,express,flask,react,nodejs,mongodb,tailwind,vscode,git,githubactions,mysql,cpp,c,aws,codepen,linux,bash,css,discord,github,html,regex,replit,stackoverflow,visualstudio,&perline=5" />
+      <img src="https://skillicons.dev/icons?i=js,py,express,flask,react,nodejs,mongodb,tailwind,vscode,git,githubactions,mysql,cpp,c,aws,linux,bash,css,discord,github,html,regex,replit,stackoverflow,visualstudio,&perline=5" />
     </a>
 </p>
 
